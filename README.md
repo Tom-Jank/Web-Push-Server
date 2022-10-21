@@ -1,9 +1,9 @@
 ### Web-Push notifications using VAPID in Java Spring
 
-* [General info] (#general-info)
-* [Technologies] (#technologies)
-* [Useful resources for Push notifications] (#useful-resources-for-push-notifications
-* [Important details] (#important-details)
+* [General info]
+* [Technologies] 
+* [Useful resources for Push notifications]
+* [Important details]
 
 ## General info
 
