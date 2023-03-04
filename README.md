@@ -1,10 +1,5 @@
 ### Web-Push notifications using VAPID in Java Spring
 
-* [General info]
-* [Technologies] 
-* [Useful resources for Push notifications]
-* [Important details]
-
 ## General info
 
 This is a server for triggering Push notifications written in Java. It is designed to work with Angular 14 service worker.
